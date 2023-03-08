@@ -1,1 +1,1 @@
-where am i
+Printing path name of current working directory.
