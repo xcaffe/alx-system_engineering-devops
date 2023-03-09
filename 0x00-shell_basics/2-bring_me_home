@@ -1,3 +1,2 @@
 #!/bin/bash
-cd~
-cd ~user_name
+cd ~username
